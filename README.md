@@ -1,2 +1,4 @@
-# SetJavaVersion
+# SetJavaVersion Old
 这是一个用python制作的能让您快速更改您的JAVA版本的简易软件
+
+这是一个旧版, 并且已不受支持, 新版使用了不同的运作方式以及更好的可视化, 我们不建议您使用该版本
